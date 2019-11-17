@@ -54,33 +54,31 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C#",
         "C++",
-        "Java",
+        ".NET Core",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SSMS",
+        "MATLAB"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Mac/OS",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of New Hampshire",
+      "area": "Mechanical Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-01",
       "gpa": "",
       "courses": [
       ]
